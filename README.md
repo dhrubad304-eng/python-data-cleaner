@@ -1,5 +1,7 @@
 # Data cleaning Master
 
+![Dashboard Preview](https://github.com/dhrubad304-eng/python-data-cleaner/blob/ea866c2d1ce4e5158c69aedb317076d233885985/python.img.jpeg)
+
 ### **Blinkit Analysis Projec**
 A simple Python script that automatically cleans CSV and Excel datasets.
 It checks file paths, removes duplicates, handles missing values, and saves a cleaned version of the dataset.
