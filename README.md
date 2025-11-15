@@ -23,7 +23,7 @@ It checks file paths, removes duplicates, handles missing values, and saves a cl
 - random : generating random wait times
 - xlrd : support for older Excel formats
 
-#### *Features:*
+#### **Features:**
 - Supports CSV and Excel (.xlsx) files
 - Detects and exports duplicate rows
 - Removes all duplicate entries
